@@ -1,0 +1,20 @@
+{
+  "name": "awesome-web-scraping",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node tools/check-md.mjs && node tools/check-sync.mjs",
+    "check:links": "lychee *.md --no-progress",
+    "check:md": "node tools/check-md.mjs",
+    "check:sync": "node tools/check-sync.mjs"
+  },
+  "devDependencies": {
+    "remark-gfm": "4.0.1",
+    "remark-lint": "10.0.1",
+    "remark-lint-maximum-line-length": "4.1.1",
+    "remark-lint-no-duplicate-headings": "4.0.1",
+    "remark-lint-unordered-list-marker-style": "4.0.1",
+    "remark-parse": "11.0.0",
+    "unified": "11.0.5"
+  }
+}

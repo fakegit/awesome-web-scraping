@@ -1,6 +1,6 @@
 # Awesome Web Scraping
 
-Lists of packages, services and manuals related to web scraping.
+List of packages, services, and manuals related to web scraping.
 
 ## Topics
 
@@ -10,10 +10,11 @@ Lists of packages, services and manuals related to web scraping.
 * [JavaScript](https://github.com/lorien/web-scraping/blob/master/javascript.md) - JavaScript packages
 * [Go](https://github.com/lorien/web-scraping/blob/master/golang.md) - Go packages
 * [Command Line Tools](https://github.com/lorien/web-scraping/blob/master/cli.md) - tools with a command line interface
-* [Web Scraping Manuals](https://github.com/lorien/awesome-web-scraping/blob/master/manuals.md) - list of articles and books teaching web scraping
+* [Web-Scraping Manuals](https://github.com/lorien/awesome-web-scraping/blob/master/manuals.md) - list of articles and books teaching web scraping
 * [dhamaniasad / HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - list of (almost) all headless web browsers in existence
-* [DNS over HTTPS providers](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - list of DNS over HTTPs providers
+* [DNS over HTTPS providers](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - list of DNS over HTTPS providers
 * [Awesome Pastebins](https://github.com/lorien/awesome-pastebins) - list of pastebin sites
+* [Awesome Tunneling](https://github.com/anderspitman/awesome-tunneling) - List of tunneling software and services. Focus on self-hosting.
 
 ## Captcha Solving Services
 
@@ -30,13 +31,8 @@ Lists of packages, services and manuals related to web scraping.
 
 ## How to Contribute to This List
 
-Create a new issue. In the issue, provide a link to the project. Either provide a SHORT BRIEF (up to 200 characters) PLAIN TEXT description or do not provide description at all. Do not use emojis and item lists in the description.
-
-Restricted content:
-* DO NOT ADD a project if its age is less than half a year
-* DO NOT ADD a project if it is about AI agent automation
-* DO NOT ADD a project if it is only a wrapper/proxy for remote service (captcha and proxy services are exception from this rule).
+Please see the [CONTRIBUTING.md](CONTRIBUTING.md) document.
 
 ## Credits
 
-The list is based initially on some data from these sources [awesome-python](https://github.com/vinta/awesome-python), [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-ruby](https://github.com/markets/awesome-ruby), [ruby-nlp](https://github.com/diasks2/ruby-nlp), [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+The list is initially based on partial data from these sources [awesome-python](https://github.com/vinta/awesome-python), [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-ruby](https://github.com/markets/awesome-ruby), [ruby-nlp](https://github.com/diasks2/ruby-nlp), [awesome-javascript](https://github.com/sorrycc/awesome-javascript)

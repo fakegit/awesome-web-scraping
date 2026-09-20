@@ -1,26 +1,25 @@
-# Web Scraping Manuals
+# Web-Scraping Manuals
 
 ## Table of Contents
 
-- [About the List](#about-the-list)
-  - [Base Things](#base-things)
-  - [Information Availability](#information-availability)
-  - [Information Granularity](#information-granularity)
-  - [How to Contribute](#how-to-contribute)
-- [Web Scraping Articles and Topics](#web-scraping-articles-and-topics)
-  - [HTML](#html)
-  - [HTTP](#http)
-  - [DNS](#dns)
-  - [TCP](#tcp)
-  - [TLS](#tls)
-  - [WebSocket](#websocket)
-  - [Concurrency](#concurrency)
-  - [Text Encoding](#text-encoding)
-  - [URL](#url)
-  - [XMLHttpRequest](#xmlhttprequest)
-  - [Security](#security)
-  - [IP Address](#ip-address)
-  - [Data Structures](#data-structures)
+* [About the List](#about-the-list)
+  * [Base Things](#base-things)
+  * [Information Availability](#information-availability)
+  * [Information Granularity](#information-granularity)
+  * [How to Contribute](#how-to-contribute)
+* [Web-Scraping Articles and Topics](#web-scraping-articles-and-topics)
+  * [HTML](#html)
+  * [HTTP](#http)
+  * [DNS](#dns)
+  * [TCP](#tcp)
+  * [TLS](#tls)
+  * [WebSocket](#websocket)
+  * [Concurrency](#concurrency)
+  * [Text Encoding](#text-encoding)
+  * [URL](#url)
+  * [XMLHttpRequest](#xmlhttprequest)
+  * [Security](#security)
+  * [IP Address](#ip-address)
 
 ## About the List
 
@@ -51,17 +50,17 @@ Learning Web Scraping list.
 You may submit a new issue with an article or book you want to add. I will read the article or take a look at animals on
 a cover picture of the book and will decide is it worth to be included in the list.
 
-## Web Scraping Articles and Topics
+## Web-Scraping Articles and Topics
 
 ### HTML
 
-- [WHATWG / HTML](https://html.spec.whatwg.org/multipage/)
+* [WHATWG / HTML](https://html.spec.whatwg.org/multipage/)
 
 ### HTTP
 
-- [High Performance Browser Networking / HTTP/1.X](https://hpbn.co/http1x/)
-- [High Performance Browser Networking / HTTP/2](https://hpbn.co/http2/)
-- [HTTP Working Group HTTP Specs](https://httpwg.org/specs/)
+* [High Performance Browser Networking / HTTP/1.X](https://hpbn.co/http1x/)
+* [High Performance Browser Networking / HTTP/2](https://hpbn.co/http2/)
+* [HTTP Working Group HTTP Specs](https://httpwg.org/specs/)
 
 ### DNS
 
@@ -69,42 +68,38 @@ Nothing yet here.
 
 ### TCP
 
-- [High Performance Browser Networking / Building Blocks of TCP](https://hpbn.co/building-blocks-of-tcp/)
+* [High Performance Browser Networking / Building Blocks of TCP](https://hpbn.co/building-blocks-of-tcp/)
 
 ### TLS
 
-- [High Performance Browser Networking / Transport Layer Security (TLS)](https://hpbn.co/transport-layer-security-tls/)
+* [High Performance Browser Networking / Transport Layer Security (TLS)](https://hpbn.co/transport-layer-security-tls/)
 
 ### WebSocket
 
-- [High Performance Browser Networking / WebSocket](https://hpbn.co/websocket/)
-- [WHATWG / Websocket](https://websockets.spec.whatwg.org/)
+* [High Performance Browser Networking / WebSocket](https://hpbn.co/websocket/)
+* [WHATWG / Websocket](https://websockets.spec.whatwg.org/)
 
 ### Concurrency
 
-- [The Little Book of Semaphores](https://greenteapress.com/wp/semaphores/)
+* [The Little Book of Semaphores](https://greenteapress.com/wp/semaphores/)
 
 ### Text Encoding
 
-- [WHATWG / Encoding](https://encoding.spec.whatwg.org/)
+* [WHATWG / Encoding](https://encoding.spec.whatwg.org/)
 
 ### URL
 
-- [WHATWG / URL](https://url.spec.whatwg.org/)
+* [WHATWG / URL](https://url.spec.whatwg.org/)
 
 ### XMLHttpRequest
 
-- [WHATWG / XMLHttpRequest](https://xhr.spec.whatwg.org/)
-- [High Performance Browser Networking / XMLHttpRequest](https://hpbn.co/xmlhttprequest/)
+* [WHATWG / XMLHttpRequest](https://xhr.spec.whatwg.org/)
+* [High Performance Browser Networking / XMLHttpRequest](https://hpbn.co/xmlhttprequest/)
 
 ### Security
 
-- [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/latest/)
+* [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/latest/)
 
 ### IP Address
 
-- [Understanding IP Addressing](http://pages.di.unipi.it/ricci/501302.pdf)
-
-### Data Structures
-
-- [Probabilistic Data Structures for Web Analytics and Data Mining](https://dirtysalt.github.io/html/probabilistic-data-structures-for-web-analytics-and-data-mining.html)
+* [Understanding IP Addressing](http://pages.di.unipi.it/ricci/501302.pdf)

@@ -2,6 +2,5 @@
 *.swo
 *.orig
 .idea
-
-html
-Pipfile.lock
+node_modules/
+.env

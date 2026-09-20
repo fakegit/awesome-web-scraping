@@ -1,0 +1,19 @@
+#!/bin/sh
+# Runs the markdown checks on staged markdown files before commit.
+# Enable with: git config core.hooksPath .githooks
+
+STAGED=$(git diff --cached --name-only --diff-filter=ACM -- '*.md')
+
+if [ -z "$STAGED" ]; then
+  exit 0
+fi
+
+npm run check
+status=$?
+
+if [ $status -ne 0 ]; then
+  echo
+  echo "Markdown checks failed. Fix the issues, then re-stage and commit."
+fi
+
+exit $status
